@@ -22,7 +22,7 @@ class CarbonAgents:
             role="Emissions Expert",
             goal="Calculate total carbon emissions from provided data",
             backstory="You’re a lone wolf who calculates emissions with the data you’re given—no help needed.",
-            tools=[],  # No tools
+            tools=[],  
             allow_delegation=False,  # Explicitly disable coworker delegation
             verbose=True,
             llm=self.DeepSeek,
