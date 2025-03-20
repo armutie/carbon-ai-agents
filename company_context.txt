@@ -1,0 +1,1 @@
+A manufacturing plant operating 20 coal-fired furnaces that consume 75 tons of coal per month each, and a fleet of 20 diesel delivery vans using 20 gallons of diesel per month each.
